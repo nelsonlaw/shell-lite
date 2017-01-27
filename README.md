@@ -10,3 +10,8 @@ Features included:
 - Handle SIGINT, SIGCHLD, SIGUSR1 with predefined response.
 - Support time macro.
 - Detection of uncorrect syntax.
+
+# How to compile:
+```
+gcc main.c -o myshell
+```
